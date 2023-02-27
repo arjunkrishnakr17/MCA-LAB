@@ -1,0 +1,9 @@
+dict1={1:'arjun',2:'cyril',3:'vineeth'}
+dict2={4:'deepak',5:'gowtham'}
+print(dict1)
+print(dict2)
+dict3=dict1.copy()
+dict3.update(dict2)
+print(dict3)
+print(dict1|dict2)
+print({**dict1,**dict2})
