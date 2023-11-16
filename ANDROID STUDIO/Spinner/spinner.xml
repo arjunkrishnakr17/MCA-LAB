@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdapterDemo</string>
+    <string-array name="Country">
+    <item>India</item>
+    <item>united kingdom</item>
+        <item>Austrailia</item>
+</string-array>
+</resources>
+
+
